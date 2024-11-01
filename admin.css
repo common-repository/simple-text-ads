@@ -1,0 +1,18 @@
+.mce-sta-panel.mce-container .mce-colorbutton .mce-preview {
+  background-color: #FC5E18;
+  height: 100%;
+  left: 0;
+  margin-left: 0;
+  margin-top: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+.mce-container .mce-grid.mce-grid-border.mce-colorbutton-grid.sta-colurbotton  div {
+  display: block !important;
+  float: left;
+  height: 15px;
+  margin: 0 2px !important;
+  width: 15px;
+  z-index: 2147483647;
+}
